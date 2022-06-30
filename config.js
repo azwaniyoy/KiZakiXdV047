@@ -5,17 +5,17 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
+// '6288210387012' ganti nomor kalian '628xxxxxx'
 //KiZakiXD ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288210387012']
+global.owner = ['6288210387012''447451221469']
 global.pengguna = 'AzwanXD'
 global.premium = []
 global.author = 'AzwanXD'
-global.pemilik = ['6288210387012'] 
-global.ownernomer = '6288210387012'
+global.pemilik = ['6288210387012''447415221469"] 
+global.ownernomer = '6288210387012''447451221469'
 global.ownername = 'azwanXD'
 global.botname = 'azwan - MD'
 global.tengah = "									"
@@ -31,7 +31,7 @@ global.ig = 'https://instagram.com/iamkizakixd'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '088210387012'
 global.gopay = '088210387012'
-global.wame = 'wa.me/6285878313791'
+global.wame = 'wa.me/447451221469'
 global.email = 'aazwamxd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
