@@ -10,12 +10,12 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288210387012''447451221469']
+global.owner = ['6288210387012']
 global.pengguna = 'AzwanXD'
 global.premium = []
 global.author = 'AzwanXD'
-global.pemilik = ['6288210387012''447415221469"] 
-global.ownernomer = '6288210387012''447451221469'
+global.pemilik = ['6288210387012'] 
+global.ownernomer = '6288210387012'
 global.ownername = 'azwanXD'
 global.botname = 'azwan - MD'
 global.tengah = "									"
